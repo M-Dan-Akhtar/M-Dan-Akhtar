@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Mo, and I am a software developer interested in full stack applications!
+
 <!--
 **M-Dan-Akhtar/M-Dan-Akhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
