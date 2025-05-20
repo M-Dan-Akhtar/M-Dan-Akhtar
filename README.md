@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Mo, and I am a software developer interested in full stack applications!
+My name is Dan, and I am a software developer interested in full stack applications!
 
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/m-dan-akhtar/)
